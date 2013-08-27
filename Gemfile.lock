@@ -51,7 +51,10 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.24)
     multi_json (1.7.9)
+<<<<<<< HEAD
     pg (0.16.0-x86-mingw32)
+=======
+>>>>>>> 3ca6ddae2f6d6e5f30d6d00a9cfa1a2185588dec
     polyglot (0.3.3)
     rack (1.4.5)
     rack-cache (1.2)
@@ -88,14 +91,22 @@ GEM
       multi_json (~> 1.0)
       rack (~> 1.0)
       tilt (~> 1.1, != 1.3.0)
+<<<<<<< HEAD
     sqlite3 (1.3.5-x86-mingw32)
+=======
+    sqlite3 (1.3.8-x86-mingw32)
+>>>>>>> 3ca6ddae2f6d6e5f30d6d00a9cfa1a2185588dec
     thor (0.18.1)
     tilt (1.4.1)
     treetop (1.4.15)
       polyglot
       polyglot (>= 0.3.1)
     tzinfo (0.3.37)
+<<<<<<< HEAD
     uglifier (2.2.0)
+=======
+    uglifier (2.1.2)
+>>>>>>> 3ca6ddae2f6d6e5f30d6d00a9cfa1a2185588dec
       execjs (>= 0.3.0)
       multi_json (~> 1.0, >= 1.0.2)
 
@@ -103,6 +114,7 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
+<<<<<<< HEAD
   coffee-rails (~> 3.2.2)
   jquery-rails (= 3.0.4)
   pg (= 0.16.0)
@@ -110,3 +122,11 @@ DEPENDENCIES
   sass-rails (~> 3.2.4)
   sqlite3 (= 1.3.5)
   uglifier (>= 1.2.3)
+=======
+  coffee-rails (~> 3.2.1)
+  jquery-rails
+  rails (= 3.2.13)
+  sass-rails (~> 3.2.3)
+  sqlite3
+  uglifier (>= 1.0.3)
+>>>>>>> 3ca6ddae2f6d6e5f30d6d00a9cfa1a2185588dec
